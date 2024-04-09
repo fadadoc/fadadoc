@@ -1,9 +1,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fadadoc&data=followers,repositories,stars,commits)](https://github.com/fadadoc/github-widgetbox)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fadadoc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,json,mysql.python)](https://github.com/Jurredr/github-widgetbox)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fadadoc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=000000)
 
 <h2 style="color: red">Call Me</h2>
 
