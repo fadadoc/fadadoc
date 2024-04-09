@@ -7,7 +7,7 @@
 
 <h2 color=red>I'm Working With</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=70>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=80>
 
 <h2 color=red>Call Me</h2>
 
