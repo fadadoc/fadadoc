@@ -8,7 +8,7 @@
   <img src="https://pre12.deviantart.net/44a2/th/pre/f/2015/324/6/5/star_butterfly_by_sparxyz-d9hdhhq.png" width=80>
 </div>
 
-<h2 color=red>I'm Working With</h2>
+<h2 color=red>I Work(ed) With</h2>
 
 <div display=flex>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=45>
