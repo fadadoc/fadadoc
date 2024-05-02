@@ -5,7 +5,7 @@
 
 <div display=flex>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fadadoc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
-  <img src="https://github.com/fadadoc/fadadoc/assets/138242492/95dc5d38-f13d-4b30-a976-b43eb00ae2b9">
+  <img src="https://pre12.deviantart.net/44a2/th/pre/f/2015/324/6/5/star_butterfly_by_sparxyz-d9hdhhq.png">
 </div>
 
 <h2 color=red>I'm Working With</h2>
