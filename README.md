@@ -4,7 +4,7 @@
 <h2 color=red>GitStatus</h2>
 
 <div display=flex>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fadadoc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" position=top>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fadadoc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" margintop=-5>
   <img src="https://pre12.deviantart.net/44a2/th/pre/f/2015/324/6/5/star_butterfly_by_sparxyz-d9hdhhq.png" width=80>
 </div>
 
