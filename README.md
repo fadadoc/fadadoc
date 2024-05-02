@@ -8,7 +8,7 @@
 <h2 color=red>I'm Working With</h2>
 
 <div display=flex>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=55>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=50>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50>
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width=50>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50>
-  <img src="https://github.com/fadadoc/fadadoc/assets/138242492/6fa946d2-99bd-4f41-9fab-5b5688deea02" width=110>
+  <img src="https://github.com/fadadoc/fadadoc/assets/138242492/6fa946d2-99bd-4f41-9fab-5b5688deea02" width=90>
 </div>
 
 <h2 color=red>Call Me</h2>
