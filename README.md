@@ -1,5 +1,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fadadoc&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/fadadoc/github-widgetbox)
+![Snake animation](https://github.com/fadadoc/fadadoc/blob/output/github-contribution-grid-snake.svg)
 
 <h2 color=red>GitStatus</h2>
 
