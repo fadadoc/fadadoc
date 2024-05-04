@@ -1,5 +1,4 @@
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fadadoc&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/fadadoc/github-widgetbox)
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 <h2 color=red>GitStatus</h2>
 
