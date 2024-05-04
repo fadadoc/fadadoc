@@ -1,4 +1,4 @@
-![snake gif](https://github.com/fadadoc/fadadoc/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://raw.githubusercontent.com/fadadoc/fadadoc/9f99282a741245a653bade4e03726ee83d98b9d0/github-contribution-grid-snake.svg)
 
 <h2 color=red>GitStatus</h2>
 
