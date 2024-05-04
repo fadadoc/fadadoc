@@ -1,4 +1,4 @@
-(![snake animation](https://github.com/magnusfelinto/magnusfelinto/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/fadadoc/fadadoc/blob/output/github-contribution-grid-snake.svg)
 
 <h2 color=red>GitStatus</h2>
 
