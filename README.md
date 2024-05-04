@@ -1,4 +1,4 @@
-![snake gif](https://github.com/fadadoc/fadadoc/assets/138242492/3d3df443-86a7-478d-a2b6-2fadac2d6c33)
+![snake animation](https://github.com/fadadoc/fadadoc/assets/138242492/3d3df443-86a7-478d-a2b6-2fadac2d6c33)
 
 <h2 color=red>GitStatus</h2>
 
