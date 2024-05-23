@@ -1,4 +1,4 @@
-![snake animation](file:///C:/PROGRAMING/CAMINHADA%20GUARDIAN/.github/teste2.svg)
+![snake animation](https://raw.githubusercontent.com/fadadoc/fadadoc/e0325811d1db8835ab23db05ff36e7357fbd6776/teste2.svg)
 
 <h2 color=red>GitStatus</h2>
 
